@@ -1,0 +1,15 @@
+aside {
+    background-color: #7651dc9c;
+    color: white;
+    position: fixed;
+    top: 40px;
+    bottom: 40px;
+    width: 200px;
+    padding: 20px;
+}
+
+@media (max-width: 768px) {
+    aside {
+        display: none;
+    }
+}

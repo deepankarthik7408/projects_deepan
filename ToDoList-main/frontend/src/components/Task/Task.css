@@ -1,0 +1,8 @@
+.task {
+    background-color: rgba(143, 112, 112, 0.295);
+    position: relative;
+    height: 100px;
+    width: 180px;
+    border-radius: 10px;
+    margin: 10px;
+}
